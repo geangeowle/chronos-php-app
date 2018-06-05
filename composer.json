@@ -1,0 +1,9 @@
+{
+    "name": "chronos-team/chronos-php-app",
+    "description": "Very Small Lite Framework for PHP app",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "geangeowle/chronos-php": "dev-master"
+    }
+}
