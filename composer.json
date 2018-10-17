@@ -4,7 +4,8 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "geangeowle/chronos-php": "dev-master"
+        "geangeowle/chronos-php": "dev-master",
+        "jdorn/sql-formatter": "dev-master"
     },
     "autoload": {
         "psr-4": {
@@ -13,7 +14,8 @@
         "files": [
           "app/requirements.php",
           "app/functions.php",
-          "app/Config/boot.php"
+          "app/Config/boot.php",
+          "vendor/jdorn/sql-formatter/lib/SqlFormatter.php"
         ]
       }
 }
