@@ -1,5 +1,5 @@
 # chronos-php-app
-Very Small App for PHP Framework
+Simple App for PHP Framework
 
 :boom: Under development! :boom:
 
